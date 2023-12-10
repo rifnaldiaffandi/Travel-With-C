@@ -1,0 +1,3 @@
+Dewasa#(17+)
+Anak - anak#(5 - 17)
+Balita#(0 - 4)

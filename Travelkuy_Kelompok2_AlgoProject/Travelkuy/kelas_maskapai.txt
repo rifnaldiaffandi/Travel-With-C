@@ -1,0 +1,8 @@
+________________  
+|Kelas Maskapai|
+|--------------| 
+|1. Ekonomi    |
+|2. Bisnis     |
+|3. Eksekutif  |
+|0. Kembali    |
+|______________|

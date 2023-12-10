@@ -1,0 +1,7 @@
+Jakarta#(CGK)Soekarno Hatta International Airport
+Surabaya#(SUB)Juanda Airport
+Medan#(KNO)Kualanamu International Airport
+Makassar#(UPG)Sultan Hasanuddin International Airport
+Denpasar#(DPS)Ngurah RAI International Airport
+Padang#(PDG)Minangkabau International Airport
+Palembang#(PLM)Sultan Mahmud Badarudin II International Airport

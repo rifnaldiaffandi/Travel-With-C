@@ -1,0 +1,3 @@
+shalimar#23#2#Batik Air#2622000#Denpasar#Palembang#09.30 - 12.35#2#Dewasa#0#Anak - anak#0#Balita#Kredit#1
+user#1#12#Sriwijaya Air#13110000#Jakarta#Padang#15.00 - 16.45#5#Dewasa#1#Anak - anak#0#Balita#Kredit#1
+tes#12#12#Citilink#1531200#Medan#Bali#05.30 - 12.50#1#Dewasa#2#Anak - anak#0#Balita#Debit#1

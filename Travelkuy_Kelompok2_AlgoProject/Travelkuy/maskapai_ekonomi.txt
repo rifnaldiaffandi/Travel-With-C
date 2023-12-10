@@ -1,0 +1,5 @@
+Lion Air#550000
+Garuda Indonesia#650000
+Batik Air#570000
+Citilink#580000
+Sriwijaya Air#500000
